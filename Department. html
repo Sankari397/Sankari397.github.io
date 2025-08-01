@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Departments - Surya Engineering College</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f8ff;
+      padding: 20px;
+      text-align: center;
+    }
+    h1 {
+      color: #d60000;
+    }
+    .departments {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 20px;
+      margin-top: 30px;
+    }
+    .dept {
+      background-color: #ffffff;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    .dept:hover {
+      background-color: #e6f7ff;
+    }
+  </style>
+</head>
+<body>
+  <h1>Our Departments</h1>
+  <div class="departments">
+    <div class="dept"><strong>CSE</strong> - Computer Science & Engineering</div>
+    <div class="dept"><strong>ECE</strong> - Electronics & Communication Engineering</div>
+    <div class="dept"><strong>AIDS</strong> - Artificial Intelligence & Data Science</div>
+    <div class="dept"><strong>AIML</strong> - Artificial Intelligence & Machine Learning</div>
+    <div class="dept"><strong>Civil</strong> - Civil Engineering</div>
+    <div class="dept"><strong>Mech</strong> - Mechanical Engineering</div>
+    <div class="dept"><strong>Biomedical</strong> - Biomedical Engineering</div>
+    <div class="dept"><strong>IT</strong> - Information Technology</div>
+  </div>
+</body>
+</html>
