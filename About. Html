@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About Us - Surya Engineering College</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fffdf5;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1 {
+      text-align: center;
+      color: #b22222;
+    }
+    .content {
+      max-width: 800px;
+      margin: auto;
+      background: #ffffff;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+  <h1>About Surya Engineering College</h1>
+  <div class="content">
+    <p><strong>Surya Engineering College</strong>, located in Erode, Tamil Nadu, is a premier institution affiliated with Anna University. Established with the vision of empowering rural and urban students alike, the college offers high-quality education in a wide range of engineering disciplines.</p>
+
+    <p>Our mission is to nurture innovation, discipline, and research-based learning. We aim to provide holistic education that develops students both technically and ethically.</p>
+
+    <p>We offer a vibrant campus with well-equipped labs, smart classrooms, experienced faculty, and a strong placement record across core and IT companies.</p>
+
+    <p><strong>Why Choose Surya?</strong></p>
+    <ul>
+      <li>Anna University Curriculum</li>
+      <li>Modern Infrastructure</li>
+      <li>Experienced Faculty</li>
+      <li>Dedicated Placement Cell</li>
+      <li>Clubs, Sports, and Cultural Activities</li>
+    </ul>
+
+    <p><em>“Education is the most powerful weapon which you can use to change the world.”</em></p>
+  </div>
+</body>
+</html>
