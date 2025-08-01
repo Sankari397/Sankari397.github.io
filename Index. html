@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Surya Engineering College - Virtual Tour</title>
+  <style>
+    body {
+      text-align: center;
+      background-color: #f0f0f0;
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      color: #d60000;
+      margin-top: 30px;
+    }
+    iframe {
+      border: none;
+      margin-top: 20px;
+    }
+    p {
+      font-size: 18px;
+      margin: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to Surya Engineering College, Erode</h1>
+  <p>Take a virtual tour of our campus and explore departments, labs, and facilities.</p>
+  <iframe src="https://pannellum.org/images/cerro-toco-0.jpg" width="100%" height="400px"></iframe>
+  <p>📍 Perundurai Rd, Mettukadai, Kathirampatti, Erode – 638107, Tamil Nadu</p>
+</body>
+</html>
